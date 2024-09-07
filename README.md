@@ -1,4 +1,4 @@
-## DATA ANALYSIS:
+## DATA ANALYTICS:
 ### 1.CUSTOMER PERSONALITY ANALYSIS
 Data source:https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
